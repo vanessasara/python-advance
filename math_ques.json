@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Solve for x: 2x + 7 = 19",
+    "answer": "x = 6"
+  },
+  {
+    "question": "Factor: x² - 5x + 6",
+    "answer": "(x - 2)(x - 3)"
+  },
+  {
+    "question": "Simplify: 3(x + 2) - 4(x - 1)",
+    "answer": "-x + 10"
+  },
+  {
+    "question": "Solve: 4x - 3 = 2x + 5",
+    "answer": "x = 4"
+  },
+  {
+    "question": "If f(x) = 2x² - 3x + 1, find f(2)",
+    "answer": "f(2) = 3"
+  },
+  {
+    "question": "What is the LCM of 12 and 18?",
+    "answer": "36"
+  },
+  {
+    "question": "If a pack of 6 pens costs $4.50, what is the cost per pen?",
+    "answer": "$0.75"
+  },
+  {
+    "question": "A number is increased by 15% and becomes 230. What was the original number?",
+    "answer": "200"
+  },
+  {
+    "question": "Evaluate: (45 × 2) + (60 ÷ 3)",
+    "answer": "120"
+  },
+  {
+    "question": "A car travels 150 km in 3 hours. What is its average speed?",
+    "answer": "50 km/h"
+  }
+]
